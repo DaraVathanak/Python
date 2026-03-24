@@ -1,5 +1,0 @@
-name=input('Enter your name: ')
-age=int(input('Enter your age: '))
-gender=input('Enter your gender: ')
-birthday=input('Enter your Date of Birth: ')
-print(f'Hello {name},You are {age} years old. Your gender is {gender}.You born at {birthday}')
